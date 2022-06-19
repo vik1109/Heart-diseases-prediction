@@ -1,6 +1,9 @@
 # CatBoost folder
 catboost_info/
 
+# csv file ignore
+*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
